@@ -37,6 +37,7 @@
 
     <modules>
         <module>compiler</module>
+        <module>templating</module>
     </modules>
 
 
